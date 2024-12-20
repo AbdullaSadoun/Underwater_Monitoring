@@ -1,0 +1,7 @@
+../Core/Src/User/L1/USART_Driver.c:36:6:request_sensor_read	8	static
+../Core/Src/User/L1/USART_Driver.c:44:6:request_hostPC_read	8	static
+../Core/Src/User/L1/USART_Driver.c:54:6:configure_usart_extern	8	static
+../Core/Src/User/L1/USART_Driver.c:68:6:configure_usart_hostPC	8	static
+../Core/Src/User/L1/USART_Driver.c:80:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/User/L1/USART_Driver.c:109:6:printStr_extern	16	static
+../Core/Src/User/L1/USART_Driver.c:115:13:printStr_local_extern	16	static

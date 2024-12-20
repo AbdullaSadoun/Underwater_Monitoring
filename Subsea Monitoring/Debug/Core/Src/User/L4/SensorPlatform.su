@@ -1,0 +1,2 @@
+../Core/Src/User/L4/SensorPlatform.c:31:13:ResetMessageStruct	16	static
+../Core/Src/User/L4/SensorPlatform.c:42:6:SensorPlatformTask	112	static

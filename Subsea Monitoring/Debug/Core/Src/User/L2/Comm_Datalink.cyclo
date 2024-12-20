@@ -1,0 +1,9 @@
+../Core/Src/User/L2/Comm_Datalink.c:23:6:initialize_sensor_datalink	1
+../Core/Src/User/L2/Comm_Datalink.c:28:6:initialize_hostPC_datalink	1
+../Core/Src/User/L2/Comm_Datalink.c:35:13:sendStringSensor	2
+../Core/Src/User/L2/Comm_Datalink.c:57:6:parse_sensor_message	25
+../Core/Src/User/L2/Comm_Datalink.c:169:21:parse_hostPC_message	7
+../Core/Src/User/L2/Comm_Datalink.c:193:6:send_sensorData_message	5
+../Core/Src/User/L2/Comm_Datalink.c:216:6:send_sensorEnable_message	5
+../Core/Src/User/L2/Comm_Datalink.c:240:6:send_sensorReset_message	1
+../Core/Src/User/L2/Comm_Datalink.c:248:6:send_ack_message	6

@@ -1,0 +1,9 @@
+../Core/Src/User/L4/SensorController.c:40:13:ResetMessageStruct	1
+../Core/Src/User/L4/SensorController.c:46:6:CheckEnableSensor	1
+../Core/Src/User/L4/SensorController.c:55:6:SensorControllerTask	36
+../Core/Src/User/L4/SensorController.c:470:6:SensorPlatform_RX_Task	3
+../Core/Src/User/L4/SensorController.c:492:6:HostPC_RX_Task	2
+../Core/Src/User/L4/SensorController.c:511:7:analyzeAcousticValue	4
+../Core/Src/User/L4/SensorController.c:522:7:analyzePressureValue	3
+../Core/Src/User/L4/SensorController.c:533:7:analyzeFlowRateValue	3
+../Core/Src/User/L4/SensorController.c:544:7:analyzeCorrosionValue	4

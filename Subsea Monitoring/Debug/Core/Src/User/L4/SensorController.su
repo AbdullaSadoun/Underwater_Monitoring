@@ -1,0 +1,13 @@
+../Core/Src/User/L4/SensorController.c:46:13:ResetMessageStruct	16	static
+../Core/Src/User/L4/SensorController.c:52:6:CheckEnableSensor	16	static
+../Core/Src/User/L4/SensorController.c:61:6:SensorControllerTask	656	static
+../Core/Src/User/L4/SensorController.c:318:6:SensorPlatform_RX_Task	88	static
+../Core/Src/User/L4/SensorController.c:345:6:HostPC_RX_Task	16	static
+../Core/Src/User/L4/SensorController.c:364:7:analyzeAcousticValue	16	static
+../Core/Src/User/L4/SensorController.c:375:7:analyzePressureValue	16	static
+../Core/Src/User/L4/SensorController.c:386:7:analyzeFlowRateValue	16	static
+../Core/Src/User/L4/SensorController.c:397:7:analyzeCorrosionValue	16	static
+../Core/Src/User/L4/SensorController.c:408:7:analyzeAcoustic2Value	16	static
+../Core/Src/User/L4/SensorController.c:418:7:analyzePressure2Value	16	static
+../Core/Src/User/L4/SensorController.c:428:7:analyzeHallEffectValue	16	static
+../Core/Src/User/L4/SensorController.c:438:7:analyzeTemperatureValue	16	static

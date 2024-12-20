@@ -1,0 +1,5 @@
+../Core/Src/User/util.c:16:6:util_init	8	static
+../Core/Src/User/util.c:20:13:print_str_local	16	static
+../Core/Src/User/util.c:25:6:print_str	16	static
+../Core/Src/User/util.c:30:6:print_str_ISR	16	static
+../Core/Src/User/util.c:34:6:print_str_unsafe	24	static

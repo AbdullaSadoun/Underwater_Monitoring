@@ -1,0 +1,2 @@
+../Core/Src/User/L2/DataPlotter.c:6:6:send_plot_data	128	static
+../Core/Src/User/L2/DataPlotter.c:14:6:initialize_plotter	8	static
