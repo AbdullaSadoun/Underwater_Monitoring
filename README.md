@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # Underwater_Monitoring
-=======
-# Remote_Underwater_Sensor
->>>>>>> 50cceff (Initial commit)
+Embedded C FreeRTOS software for real-time monitoring and data collection, built on STM32 microcontrollers using STM32Cube and FreeRTOS for sensor integration and robust operation.
